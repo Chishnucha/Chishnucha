@@ -379,7 +379,7 @@
     },
     {
         "name": "handling.cfg",
-        "size": "64664",
+        "size": "64532",
         "path": "data/",
         "url": "http://191.96.92.72/SAMPDATA/data/handling.cfg"
     },
@@ -612,7 +612,7 @@
         "url": "http://191.96.92.72/SAMPDATA/data/Decision/Allowed/m_weak.ped"
     },
     {
-        "name": "MISSION.ped",
+        "name": "MISSION.grp",
         "size": "2758",
         "path": "data/Decision/Allowed/",
         "url": "http://191.96.92.72/SAMPDATA/data/Decision/Allowed/MISSION.grp"
@@ -1369,7 +1369,7 @@
     },
     {
         "name": "handling.cfg",
-        "size": "64632",
+        "size": "64532",
         "path": "SAMP/",
         "url": "http://191.96.92.72/SAMPDATA/SAMP/handling.cfg"
     },
